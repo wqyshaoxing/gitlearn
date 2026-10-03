@@ -1,4 +1,4 @@
-banana
-apple
+香蕉
+苹果
 葡萄
 山竹
